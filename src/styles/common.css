@@ -1,0 +1,10 @@
+@import url(reset.css);
+@import url(tailwind.css);
+
+.scrollBar-none {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+}
+.scrollBar-none::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, Opera*/
+}

@@ -1,0 +1,15 @@
+html, body, header, nav, main, footer, section, article, h1, h2, h3, div, span, img, ul, li, a, table, thead, tbody, tfoot, th, tr, td{
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: none;
+}
+
+ul, li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
